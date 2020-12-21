@@ -1,8 +1,0 @@
-print("привет мир!");
-Print("2 line")
-Print("2 line")
-Print("2 line")
-Print("2 line")
-Print("2 line")
-Print("2 line")
-Print("2 line")
